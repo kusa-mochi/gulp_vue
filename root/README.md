@@ -2,12 +2,17 @@
 
 ## Project setup
 ```
+npm install -g @vue/cli-service-global
 npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+
+or
+
+vue serve -o
 ```
 
 ### Compiles and minifies for production
